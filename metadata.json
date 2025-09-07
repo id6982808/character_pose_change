@@ -1,0 +1,5 @@
+{
+  "name": "AI Character Customizer",
+  "description": "An application that uses AI to change a character's clothes or pose based on a reference image. Built with React and the Gemini API.",
+  "requestFramePermissions": []
+}
